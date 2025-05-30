@@ -10,7 +10,7 @@
   <a href="https://serhatdev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-serhatdev.vercel.app-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="website"/>
   </a>
-  <a href="https://blog.serhatdev.vercel.app/">
+  <a href="https://serhatdev.vercel.app/blog">
     <img src="https://img.shields.io/badge/Blog-blog.serhatdev-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="blog"/>
   </a>
   <a href="https://www.linkedin.com/in/serhat-yldz/">
@@ -58,11 +58,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serhat-yildiz&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serhat-yildiz&theme=radical" alt="github streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serhat-yildiz&theme=radical" alt="github streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=serhat-yildiz&show_icons=true&theme=radical" alt="github stats" />
 </p>
 
 ### 💻 Most Used Languages
@@ -76,18 +76,3 @@
 - 🔭 I'm currently focusing on **Frontend Development**
 - 🌱 I'm continuously learning and improving my skills
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/serhat-yildiz)
-
-### 📫 Contact
-
-<p align="center">
-  <a href="mailto:serhatgulcanyldz04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/serhat-yildiz?style=social" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/serhat-yildiz?style=social" alt="stars"/>
-</p>
