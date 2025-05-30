@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://serhatdev.vercel.app/">
+  <a href="https://serhatdev.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-serhatdev.vercel.app-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="website"/>
   </a>
-  <a href="https://serhatdev.vercel.app/blog">
+  <a href="https://serhatdev.vercel.app/blog" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Blog-blog.serhatdev-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="blog"/>
   </a>
-  <a href="https://www.linkedin.com/in/serhat-yldz/">
+  <a href="https://www.linkedin.com/in/serhat-yldz/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="mailto:serhatgulcanyldz04@gmail.com">
@@ -75,4 +75,4 @@
 
 - 🔭 I'm currently focusing on **Frontend Development**
 - 🌱 I'm continuously learning and improving my skills
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/serhat-yildiz)
+- 👨‍💻 All of my projects are available on <a href="https://github.com/serhat-yildiz" target="_blank" rel="noopener noreferrer">GitHub</a>
