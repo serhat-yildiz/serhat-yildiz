@@ -3,18 +3,21 @@
 
 <p align="center"></p>
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue" alt="focus"/>
-  <img src="https://img.shields.io/badge/Living-Turkey-red" alt="living"/>
   <img src="https://img.shields.io/badge/Languages-Turkish%20%26%20English-brightgreen" alt="languages"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serhat-yildiz&label=Profile%20views&color=0e75b6&style=flat" alt="serhat-yildiz" /> </p>
-
 <p align="center">
   <a href="https://serhatdev.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-serhatdev.vercel.app-2ea44f?style=for-the-badge&logo=vercel" alt="website"/>
+    <img src="https://img.shields.io/badge/Portfolio-serhatdev.vercel.app-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="website"/>
+  </a>
+  <a href="https://blog.serhatdev.vercel.app/">
+    <img src="https://img.shields.io/badge/Blog-blog.serhatdev-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="blog"/>
   </a>
   <a href="https://www.linkedin.com/in/serhat-yldz/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:serhatgulcanyldz04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
 
@@ -77,7 +80,7 @@
 ### 📫 Contact
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:serhatgulcanyldz04@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
