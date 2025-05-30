@@ -12,11 +12,6 @@
   </a>
 </div>
 
-### About Me
-- 🔭 Frontend Developer passionate about creating user-friendly web experiences
-- 🌱 Continuously learning and improving my skills
-- 👨‍💻 Check out my projects on <a href="https://github.com/serhat-yildiz" target="_blank" rel="noopener noreferrer">GitHub</a>
-
 ### Technologies I Work With
 
 <div align="center">
@@ -48,5 +43,4 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=serhat-yildiz&theme=radical" alt="github streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=serhat-yildiz&show_icons=true&theme=radical" alt="github stats" />
 </div>
