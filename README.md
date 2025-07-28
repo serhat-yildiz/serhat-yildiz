@@ -1,14 +1,16 @@
-# 👋 Hi there, I'm Serhat Yıldız
+<div style="display: flex; align-items: center; gap: 15px;">
 
-<div align="center">
-  <img src="./github.gif" width="100%" alt="GitHub Animation" />
+  <img src="./github.gif" alt="Profile GIF" width="120" height="120" style="border-radius: 50%;"/>
+
+  <div>
+    <h1>Hi there, I'm Serhat Yıldız 👋</h1>
+    <p>
+      Passionate <strong>Frontend Developer</strong> focused on building modern, user-friendly, and scalable web applications.<br/>
+      I love crafting <strong>beautiful UI/UX</strong>, optimizing performance, and staying ahead with the latest web technologies.
+    </p>
+  </div>
+
 </div>
-
----
-
-## 💻 About Me
-Passionate **Frontend Developer** focused on building modern, user-friendly, and scalable web applications.  
-I love crafting **beautiful UI/UX**, optimizing performance, and staying ahead with the latest web technologies.
 
 ---
 
@@ -22,16 +24,4 @@ I love crafting **beautiful UI/UX**, optimizing performance, and staying ahead w
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=serhat-yildiz&show_icons=true&theme=radical" alt="GitHub stats" />
-</div>
-
----
-
-## 🌍 Connect With Me
-<div align="center">
-  <a href="https://serhatdev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Website-2ea44f?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/serhat-yldz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge" />
-  </a>
 </div>
