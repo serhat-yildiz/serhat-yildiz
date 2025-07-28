@@ -1,14 +1,7 @@
-<div style="display: flex; align-items: center; font-size: 14px;">
+<div style="display: flex; align-items: center; gap: 20px; font-size: 14px;">
+  <!-- Profil GIF -->
+  <img src="./github.gif" alt="Profile GIF" width="150" height="150" style="border-radius: 50%;" />
 
-  <!-- GIF -->
-  <img src="./github.gif" alt="Profile GIF" width="90" height="90" style="border-radius: 50%; margin-right: 15px;" />
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serhat-yildiz&theme=radical" alt="GitHub Streak" width="350" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=serhat-yildiz&show_icons=true&theme=radical" alt="GitHub Stats" width="350" />
-</div>
-
-
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serhat-yildiz&theme=radical" alt="GitHub Streak" width="400" />
 </div>
